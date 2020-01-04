@@ -5,11 +5,11 @@
 ## We finished #7 of 173 teams.
 ## We solved 6 of 20 challenges.
 
-# * Challenges
+# **Challenges**
 
 ## Misc
 
-* [DESk](misc_2/index.md)
+- [DESk](misc_2/index.md)
 
 
 

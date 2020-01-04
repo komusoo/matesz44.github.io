@@ -9,13 +9,13 @@ I play htb and ctf's in team `1337B01S`. We are a lil beginner team but we want 
 
 ## Gnu/Linux
 
-I use arch btw.  
-And planning on switching to gentoo cuz systemd sucks.  
-I also use kali for pentest and mx for an Xtreme stable af recovery system if i fuck stg up on the others.
+I use [arch](https://archlinux.org) btw.  
+And planning on switching to [gentoo](https://gentoo.org) cuz systemd sucks.  
+I also use [kali](https://kali.org) for pentest and [mx](https://mxlinux.org) for an Xtreme stable af recovery system if i fuck stg up on the others.
 
 ## Windows
 
-Yep I also use Windows but only for gaming.  
+Yep I also use Windows but only for gaming.
 
 # Writeups
 

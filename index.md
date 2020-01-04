@@ -1,5 +1,6 @@
 # Welcome to my webpage
 
+
 ## Whoami
 
 Hello every1 I'm a 16yo hungarian boy livin a normal life, playin games (mainly League of Legends and CS:GO).
@@ -14,4 +15,13 @@ And planning on switching to gentoo cuz systemd sucks.
 I also use kali for pentest and mx for an Xtreme stable af recovery system if i fuck stg up on the others.
 
 ## Windows
+
 Yep I also use Windows but only for gaming.
+
+
+# Writeups
+
+***only for ended ctf's, retired boxes, challenges***
+
+- [CTF](writeups/ctf)
+- [HTB](writeups/htb)

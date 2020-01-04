@@ -1,5 +1,11 @@
-theme: jekyll-theme-hacker
-title: M4t35Z's blog
-description: M4t35Z's blog and writeups.
-owner: M4t35Z
+theme: "jekyll-theme-hacker"
+title: "M4t35Z's blog"
+#description: M4t35Z's blog and writeups.
+owner: "M4t35Z"
+year: "2020"
+author:
+  name: "M4t35Z"
+  url: "https://matesz44.github.io"
+baseurl: /
+
 

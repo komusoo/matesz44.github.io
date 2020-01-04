@@ -19,7 +19,7 @@ I also use [kali](https://kali.org) for pentest and [mx](https://mxlinux.org) fo
 Yep I also use Windows but only for gaming.
 
 # Writeups
-***only for ended ctf's, retired boxes, challenges***
+***only for ended ctf's, retired boxes, challenges***  
 ![jerrywheeze](jerrywheeze.png)
 ## [CTF](writeups/ctf)
 ## [HTB](writeups/htb)

@@ -11,3 +11,6 @@ We solved 6 of 20 challenges.\
 
 [DESk](misc_2/index.md)
 
+
+
+[back](../)

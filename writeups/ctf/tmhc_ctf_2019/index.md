@@ -7,10 +7,7 @@
 
 # Challenges
 
-- *Misc*
+# *Misc*
 
   - [DESk](misc_2/index.md)
 
-
-
-[back](../)

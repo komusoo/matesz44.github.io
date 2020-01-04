@@ -15,12 +15,11 @@ I also use kali for pentest and mx for an Xtreme stable af recovery system if i 
 
 ## Windows
 
-Yep I also use Windows but only for gaming.
-
+Yep I also use Windows but only for gaming.  
 
 # Writeups
 
 ***only for ended ctf's, retired boxes, challenges***
 
-## - [CTF](writeups/ctf)
-## - [HTB](writeups/htb)
+## [CTF](writeups/ctf)
+## [HTB](writeups/htb)

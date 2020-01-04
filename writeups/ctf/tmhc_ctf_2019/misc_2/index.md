@@ -2,7 +2,7 @@
 
 > They figured out my password, so I had to change it after 39 years. But now I can't remember my new one.
 
-- We got ***2*** files. ![login.jpg](login.jpg) and [secret.zip](secret.zip)
+- We got ***2*** files. [login.jpg](login.jpg) ![login.jpg](login.jpg) and [secret.zip](secret.zip)
 - We have to get the ***pw of secret.zip*** somehow.
 
 So we started googling and found that this start named `King's Pawn Game` on the little paper on the down left in the login picture.

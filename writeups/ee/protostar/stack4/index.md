@@ -43,7 +43,7 @@ info registers
 - We can see it segfaulted at `ebp` = `0x53535353` this is `S` and `eip` = `0x54545454` and this is character `T`
 - Run `objdump -t stack4` and find win `objdump -t stack4 | grep win`
   - `win` is at `080483f4`
-- We have to control these so change the code like:
+- We have to control these so change the code like:  
 ```py
 import struct
 

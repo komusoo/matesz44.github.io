@@ -3,6 +3,13 @@ Official Protostar challenge [webpage](https://exploit-exercises.lains.space/pro
 
 ## I will share my writeups about these challenges, I hope u enjoy my writings (:
 
+- U will have to ssh in
+`ssh user@192.168.0.102` (ip may change)
+- and cd to the executables dir
+`cd /opt/protostar/bin`
+- execute the binary and try to exploit it (:
+For example: `./stack0` 
+
 ### LEVELz:
 - [stack0](stack0/index.md)
 - [stack1](stack1/index.md)

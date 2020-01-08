@@ -49,7 +49,6 @@ U can see there is 2 type of it.
 
 I hope u got what i meant by
 > numbers move backwards  
-(:
 
 ## Inserting the right value
 So we do a `man ascii` cuz we need `0x61626364` after 64 A.  

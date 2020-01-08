@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # DESk
 
 > They figured out my password, so I had to change it after 39 years. But now I can't remember my new one.

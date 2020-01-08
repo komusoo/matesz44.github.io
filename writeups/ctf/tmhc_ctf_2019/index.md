@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # The Many Hats Club CTF 2019
 
 ### `2019.12.14 - 2019.12.15`

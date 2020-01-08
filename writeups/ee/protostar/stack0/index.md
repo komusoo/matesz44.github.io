@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # Stack 0
 ```c
 #include <stdlib.h>

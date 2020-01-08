@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # Stack 1
 ```c
 

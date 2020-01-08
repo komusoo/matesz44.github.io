@@ -1,4 +1,4 @@
-# [cd ../](../index.md)
+# [cd ../](../../index.md)
 # Exploit Exercises writeups
 Official exploit-exercises [webpage](https://exploit-exercises.lains.space)
 

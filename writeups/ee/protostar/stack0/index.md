@@ -20,6 +20,9 @@ int main(int argc, char **argv)
   }
 }
 ```
+`man gets`
+![gets](gets.png)
+### hehexd this will be fun (:
 **It needs an input**
 And we can see in the source the max is `64` *characters*.
 

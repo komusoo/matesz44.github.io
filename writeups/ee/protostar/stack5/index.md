@@ -60,8 +60,8 @@ print padding+eip
 ## The exploit
 - We have to jump to a valid location like **esp**
 - After hitting the breakpoint we can `si` (step 1 instruction) and `info registers`
-- We have the address of **esp** now `0xbffff7b0`
-- Change the exploit a lilbit by changing the `0x41`'s to `0xbffff7b0`
+- We have the address of **esp** now `0xbffff7c0`
+- Change the exploit a lilbit by changing the `0x41`'s to `0xbffff7c0`
 - We have to append the shellcode that we want to execute after the return pointer
 - We have to use the **INT3** (breakpoint) code now `\xCC`
 

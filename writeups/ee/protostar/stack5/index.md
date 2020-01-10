@@ -41,7 +41,7 @@ info registers
 ![fuzz1](fuzz1.png)  
 - **ebp** = **S**, **eip** = **T**
 - We can `disass main` and we can `break *0x080483da` (the address of **ret**)
-- Or we can `define hook-stop`  
+- And we can `define hook-stop`  
 ![hook](hook.png)
 ## Change the exploit
 

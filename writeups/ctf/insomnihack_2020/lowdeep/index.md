@@ -10,6 +10,7 @@
 - Try `127.0.0.1` -> got a normal output of a `ping` cmd  
 ![lowdeep2.png](lowdeep2.png)
 - Try `127.0.0.1;ls` -> got the whole directory ayy  
+![kreygasm](kreygasm.png)  
 ![lowdeep3.png](lowdeep3.png)
 
 ## Getting the flag

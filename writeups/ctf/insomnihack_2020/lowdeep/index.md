@@ -14,6 +14,7 @@
 
 ## Getting the flag
 I tried a lotta thing to cat the flag but nothing works(I got a lotta permission denied on simple cmds like `cat`)  
+![lowdeep4.png](lowdeep4.png)  
 - We have to do the other way  
 The other way is that we know the filename on the server so just download it. :D  
 Just go http://lowdeep.insomnihack.ch/print-flag  

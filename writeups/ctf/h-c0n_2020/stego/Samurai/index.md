@@ -20,6 +20,6 @@ Search for him. We can find his github page where he has 2 stego related repo. [
 BTW we can download **stegpy** with `pip install stegpy`.
 ## Running stegpy and getting the juicy FLAAAG
 - Run stegpy on *samurai.png*  
-`stegpy samurai.png -p` enter the password that we got from the *wav* (`SHINOBI`) and we got our flag `H-c0n{3899dcbab79f92af727c2190bbd8abc5}`
+`stegpy samurai.png -p` enter the password that we got from the *wav* (`SHINOBI`) and we got our flag `H-c0n{3899dcbab79f92af727c2190bbd8abc5}`  
 ![flag](flag.png)
 # WE GOT IT AYYYYOOOO

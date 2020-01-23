@@ -5,7 +5,9 @@
 
 ## We completed 4 challenges
 
-[sanity check](sanity_check/index.md)
-[stego -> samurai](stego/Samurai/index.md)
-[crypto -> Kojo No Mai](crypto/Kojo_No_Mai/index.md)
+[sanity check](sanity_check/index.md)  
+[stego -> samurai](stego/Samurai/index.md)  
+[crypto -> Kojo No Mai](crypto/Kojo_No_Mai/index.md)  
 [boot2root -> User](boot2root/index.md)
+
+### [Other challenges that we didnt complete](h-c0n.zip)

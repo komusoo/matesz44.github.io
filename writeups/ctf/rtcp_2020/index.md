@@ -2,6 +2,9 @@
 # Rice Tea Cat Panda CTF
 > 2020 Jan. 20 - 2020 Jan. 25
 
+## Websites, github pages
+[riceteacatpanda.wtf](https://riceteacatpanda.wtf)  
+[github](http://github.com/JEF1056/riceteacatpanda/)
 
 
 # Challenges we completed

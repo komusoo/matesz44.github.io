@@ -2,12 +2,12 @@
 # Code On
 
 ## Description
-> My houseplant and I were working on a biology assignment together. Yes, my houseplant. Don't question it. Anyways, she ended up giving me a new cipher to use in my next project! So I'm giving it to my biology friends to see if they can solve it. They are, after all, studying DNA and mRNA right now.
-> AUGCAAGGUCUCUUGACCCAGUGGAUACUAAAUGCCUGGAAGGUAGCAUACUAG
-> Key: 6, 3, 4, 3, 1, 9, 8, 3, 3, 2, 7, 4, 1, 2, 4, 1
+> My houseplant and I were working on a biology assignment together. Yes, my houseplant. Don't question it. Anyways, she ended up giving me a new cipher to use in my next project! So I'm giving it to my biology friends to see if they can solve it. They are, after all, studying DNA and mRNA right now.  
+> `AUGCAAGGUCUCUUGACCCAGUGGAUACUAAAUGCCUGGAAGGUAGCAUACUAG`  
+> `Key: 6, 3, 4, 3, 1, 9, 8, 3, 3, 2, 7, 4, 1, 2, 4, 1`
 
 ## Hints
-> Make sure to encase the plaintext with rtcp{} Spaces are represented by a underscore, (_)
+> Make sure to encase the plaintext with `rtcp{}` Spaces are represented by a underscore, (_)
 
 # Start
 - It's an **RNA** chain  

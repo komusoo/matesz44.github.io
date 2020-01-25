@@ -16,7 +16,7 @@ GIVE ME BACK MY EYEHOLES.eml:<https://riceteacatpanda.wtf/phishingemail>
 GIVE ME BACK MY EYEHOLES.eml:-MY <a href=3D"https://riceteacatpanda.wtf/phishingemail">EYEHOLES</a></div=
 ```
 - We have the [url](https://riceteacatpanda.wtf/phishingemail) now  
-So we go there and just copy paste the flag.
+So we go there and just copy paste the flag.  
 ![page](page.png)
 # Got it
 ```

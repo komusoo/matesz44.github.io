@@ -12,7 +12,8 @@
 - Extract the zip file and we got a lotta subfolders and images in it
 - We have to remove the duplicates  
 I used [fdupes](https://www.tecmint.com/fdupes-find-and-delete-duplicate-files-in-linux/) to remove them.  
-After that I just made a search for files.
+After that I just made a search for files.  
+
 ```
 find bigtree/ -type f
 

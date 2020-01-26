@@ -18,7 +18,8 @@
 [Hump's Day](crypto/humps_day/index.md)  
 [Pandas Like Salads](crypto/pandas_like_salads/index.md)  
 [That's a Lot of Stuff](crypto/thats_a_lot_of_stuff/index.md)  
-[That's Some Interesting Tea(rs)](crypto/thats_some_interesting_tea_rs/index.md)
+[That's Some Interesting Tea(rs)](crypto/thats_some_interesting_tea_rs/index.md)  
+[Wrong Way](crypto/wrong_way/index.md)
 
 - Forensics  
 [Chugalugs Footpads](forensics/chugalugs_footpads/index.md)  
@@ -30,4 +31,10 @@
 
 - Web  
 [Phishing for Flags](web/phishing_for_flags/index.md)  
+[Robots. Yeah, I know, pretty obvious.](web/robots/index.md)  
 [UWU](web/uwu/index.md)
+
+- Misc  
+[A Friend In Need Is A Friend Indeed](misc/jade_1/index.md)  
+[Off-Topic](misc/offtopic/index.md)  
+[Strong Password](misc/strong_password/index.md)

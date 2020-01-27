@@ -10,6 +10,7 @@
 # Challenges we completed
 
 - Binary  
+[Print(f) to pay respet](bin/print_f/index.md)  
 [Snakes](bin/snakes/index.md)
 
 - Crypto  

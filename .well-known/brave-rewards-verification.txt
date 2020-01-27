@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: matesz44.github.io
+Token: 0481730dd099dec90667bbb609e4c52c48334dfa115e19f5e8bb037459239896

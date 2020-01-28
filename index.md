@@ -24,3 +24,6 @@ Yep I also use Windows but only for gaming.
 ## [CTF](writeups/ctf)
 ## [HTB](writeups/htb)
 ## [Exploit-exercises](writeups/ee)
+
+# Support
+**If** u are using [brave](https://brave.com) browser u can go to my ***[github](https://github.com/matesz44)*** and send me a [tip](https://brave.com/tips)

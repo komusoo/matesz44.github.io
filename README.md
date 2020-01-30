@@ -4,5 +4,5 @@
 # - - - - - - - - - - - -
 
 # Support
-**If** u are using [brave](https://brave.com) browser u can just send me a [tip](https://brave.com/tips) on my ***[github](https://github.com/matesz44)*** page
+**If** u are using [brave](https://brave.com) browser u can just send me a [tip](https://brave.com/tips) on my ***[github](https://github.com/matesz44)*** page  
 ![peepoU](peepoU.png)

@@ -9,4 +9,6 @@ author:
 baseurl: /
 
 
-theme: "jekyll-theme-hacker"
+#theme: "jekyll-theme-hacker"
+theme: "jekyll-dash"
+

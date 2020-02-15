@@ -1,5 +1,5 @@
-# Wgel CTF
 # [cd ../](../index.md)
+# Wgel CTF
 > Can you exfiltrate the root flag?
 
 # Start

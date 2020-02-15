@@ -1,5 +1,5 @@
-# Simple CTF
 # [cd ../](../index.md)
+# Simple CTF
 
 # Start
 

@@ -1,5 +1,5 @@
-# Sudo Security Bypass
 # [cd ../](../index.md)
+# Sudo Security Bypass
 > A tutorial room exploring CVE-2019-14287 in the Unix Sudo Program. Room One in the SudoVulns Series
 
 # Start

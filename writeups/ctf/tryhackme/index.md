@@ -9,9 +9,9 @@ Its just a htb like webpage but its very very good!
   [Blue](blue/index.md)  
   [Simple CTF](simple_ctf/index.md)  
   [Ice](ice/index.md)  
-  [Wgel CTF](wgel_ctf/index.md)
-  [Mr Robot CTF](mr_robot_ctf/index.md)
-  [Vulnversity](vulnversity/index.md)
+  [Wgel CTF](wgel_ctf/index.md)  
+  [Mr Robot CTF](mr_robot_ctf/index.md)  
+  [Vulnversity](vulnversity/index.md)  
 
 - CVE's  
   [Sudo Security Bypass](sudo_security_bypass/index.md)  

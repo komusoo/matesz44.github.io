@@ -30,6 +30,7 @@ ffuf -c -w ~/tools/SecLists/Discovery/DNS/subdomains-top1million-5000.txt -u "ht
 We need the `-fl 108` to avoid junk.  
 ![ffuf](ffuf.png)  
 We got only one subdomain `<subdomain>.cmess.thm`  
+![dis gon be gud](https://media.giphy.com/media/2awcOE20shEQg/giphy.gif)  
 - Add `<subdomain>.cmess.thm` to **/etc/hosts**  
   ![hosts](hosts.png)
 

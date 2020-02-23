@@ -29,14 +29,13 @@ ffuf -c -w ~/tools/SecLists/Discovery/DNS/subdomains-top1million-5000.txt -u "ht
 ```
 We need the `-fl 108` to avoid junk.  
 ![ffuf](ffuf.png)  
-We got only one subdomain `dev.cmess.thm`  
-- Add `dev.cmess.thm` to **/etc/hosts**  
+We got only one subdomain `<subdomain>.cmess.thm`  
+- Add `<subdomain>.cmess.thm` to **/etc/hosts**  
   ![hosts](hosts.png)
 
 ## Admin panel
 If we go there we can see a user and a password!  
 ![pass](pass.png)  
-`andre@cmess.thm`:`KPFTN_f2yxe%`  
 Use these creds in `cmess.thm/admin`  
 ![login](login.png)  
 And now we have an admin panel!
@@ -58,12 +57,8 @@ We got `/opt/.password.bak` at the end of the linenum
 ```
 cat /opt/.password.bak
 ```
-And we got:
-```
-andres backup password
-UQfsdCB7aAP6
-```
-Now just ssh in as andre with the new creds `andre`:`UQfsdCB7aAP6`  
+And we got *andre's backup password*  
+Now just ssh in as andre with the new creds  
 And we got the ***SHELL*** as ***andre***  
 Btw we got the user flag too from `/home/andre/user.txt`
 

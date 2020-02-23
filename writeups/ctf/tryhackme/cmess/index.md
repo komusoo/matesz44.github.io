@@ -89,3 +89,4 @@ Now we just have to wait a lilbit
 ![gotroot](gotroot.png)
 
 # Got root and got the flag from `/root/root.txt`
+![dab](https://media.giphy.com/media/j9GaOL1MGRQZSfcdCn/giphy.gif)

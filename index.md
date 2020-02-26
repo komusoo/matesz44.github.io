@@ -21,10 +21,11 @@ Yep I also use Windows but only for gaming.
 # Writeups
 ***only for ended ctf's, retired boxes, challenges***  
 ![jerrywheeze](jerrywheeze.png)
-## [CTF](writeups/ctf)
-## [HTB](writeups/htb)
+## [CTF's and Wargames](writeups/ctf)
+## [HackTheBox](writeups/htb)
 ## [Exploit-exercises](writeups/ee)
 
-# Support
-**If** u are using [brave](https://brave.com) browser u can go to my ***[github](https://github.com/matesz44)*** and send me a [tip](https://brave.com/tips)  
+# 🤑 Support 🤑
+If u like what im doin here just gimme some 💵dollah💵 pleZ  
+My paypal: [paypal.me/M4t35Z](https://www.paypal.me/M4t35Z)  
 ![peepoU](peepoU.png)

@@ -15,7 +15,7 @@ Open ports are:
 - 7331 - web 
 
 ### Ftp
-We got 3 files. `creds.txt` - creds for nitu `nitu:81299`,  
+We got 3 files. `creds.txt` - creds for nitu,  
 `game.txt` - game on port `1337`  
 and `message.txt` - a message about some guy went for a holiday and some other needs to take care of his/her work.  
 ![oh yes](https://media.giphy.com/media/21I7j6xSyuTHUNiRdp/giphy.gif)

@@ -215,11 +215,7 @@
 							React.createElement("span", {className: "card-title grey-text text-darken-4"}, React.createElement("h4", null, "KRESZ teszt")), 
 							React.createElement("p", null, 
 								"Üdv a KRESZ teszt alkalmazásban! Itt felkészülhetsz a KRESZ vizsgádra a megújult 2015-ös vizsga valós kérdéseivel." + ' ' +
-								"További információ a tesztről, a kérdésekről és az alkalmazásról az ", React.createElement("a", {href: "#info"}, React.createElement("strong", null, "Infó")), " oldalon.", 
-								React.createElement("br", null), React.createElement("br", null), 
-								"A kérdésadatbázis a szakoe.hu oldalról származik, annak szerzői jogaival a E-Educatio Információtechnológia Zrt. rendelkezik.", 
-								React.createElement("br", null), React.createElement("br", null), 
-								"E-mail: ujkreszteszt (a) gmail.com"
+								"További információ a tesztről, a kérdésekről és az alkalmazásról az ", React.createElement("a", {href: "#info"}, React.createElement("strong", null, "Infó")), " oldalon." 
 							)
 						)
 					), 

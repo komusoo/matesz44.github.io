@@ -6,7 +6,8 @@
 Hello every1 I'm a 16yo hungarian boy livin a normal life, playin games (mainly League of Legends and CS:GO).  
 I love playing [CTF's](https://ctftime.org/) and [Hackthebox](https://www.hackthebox.eu/profile/112519).  
 I play htb and ctf's in team `1337B01S`. We are a lil beginner team but we want to learn a lot in 2020 (:  
-[![1337B01S](1337B015_250.png)](https://ctftime.org/team/107200)
+[![1337B01S](1337B015_250.png)](https://ctftime.org/team/107200)  
+U can reach me on [twitter](https://twitter.com/szilak44)
 
 ## Gnu/Linux
 

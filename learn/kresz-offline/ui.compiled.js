@@ -215,7 +215,7 @@
 							React.createElement("span", {className: "card-title grey-text text-darken-4"}, React.createElement("h4", null, "KRESZ teszt")), 
 							React.createElement("p", null, 
 								"Üdv a KRESZ teszt alkalmazásban! Itt felkészülhetsz a KRESZ vizsgádra a megújult 2015-ös vizsga valós kérdéseivel." + ' ' +
-								"További információ a tesztről, a kérdésekről és az alkalmazásról az ", React.createElement("a", {href: "#info"}, React.createElement("strong", null, "Infó")), " oldalon." 
+								"További információ a tesztről, a kérdésekről és az alkalmazásról az ", React.createElement("a", {href: "#info"}, React.createElement("strong", null, "Infó")), " oldalon."
 							)
 						)
 					), 
@@ -288,7 +288,8 @@
 					React.createElement("div", {className: "card"}, 
 						React.createElement("div", {className: "card-content"}, 
 							React.createElement("span", {className: "card-title grey-text text-darken-4"}, React.createElement("h4", null, "Divide et impera!")), 
-							React.createElement("p", null, "Ha tetszett az alkalmazás, oszd meg másokkal is.")
+							React.createElement("p", null, "Ha tetszett az alkalmazás, oszd meg másokkal is."),
+							React.createElement("a", {href: "../../index.md"}, React.createElement("h5", null, "Weboldalam"))
 						)
 					)
 				)

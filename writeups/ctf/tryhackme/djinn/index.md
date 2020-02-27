@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # djinn
 > Intermediate level vulnerable box.
 

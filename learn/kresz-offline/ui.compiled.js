@@ -287,8 +287,8 @@
 
 					React.createElement("div", {className: "card"}, 
 						React.createElement("div", {className: "card-content"}, 
-							React.createElement("span", {className: "card-title grey-text text-darken-4"}, React.createElement("h4", null, "Visszajelzés")), 
-							React.createElement("p", null, "Minden visszajelzést szívesen várok a ", React.createElement("strong", null, "ujkreszteszt (a) gmail.com"), " címen. Ha kérdésed, javaslatod vagy ötleted van, esetleg hibát találtál, írj hogy minél jobb lehessen a program. Ha tetszett az alkalmazás, oszd meg másokkal is.")
+							React.createElement("span", {className: "card-title grey-text text-darken-4"}, React.createElement("h4", null, "Divide et impera!")), 
+							React.createElement("p", null, "Ha tetszett az alkalmazás, oszd meg másokkal is.")
 						)
 					)
 				)

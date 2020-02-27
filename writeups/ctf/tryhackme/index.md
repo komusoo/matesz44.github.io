@@ -13,6 +13,7 @@ Its just a htb like webpage but its very very good!
   [Mr Robot CTF](mr_robot_ctf/index.md)  
   [Vulnversity](vulnversity/index.md)  
   [CMesS](cmess/index.md)  
+  [djinn](djinn/index.md)  
 
 - CVE's  
   [Sudo Security Bypass](sudo_security_bypass/index.md)  

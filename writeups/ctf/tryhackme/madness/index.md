@@ -1,3 +1,4 @@
+# [cd ../](../index.md)
 # Madness
 > Will you be consumed by Madness?
 

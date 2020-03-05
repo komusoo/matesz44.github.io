@@ -17,6 +17,7 @@ Source:
 `<name>.jpg` but `png` *magic bytes*  
 Replace with `hexedit` to jpg ones!  
 If we open it we got a hidden dir in the web server!  
+![hexedited](imgs/hexedited.png)
 
 #### Guessing the secret on the hidden page
 ![secret](imgs/secret.png)  

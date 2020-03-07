@@ -15,6 +15,7 @@ Its just a htb like webpage but its very very good!
   [CMesS](cmess/index.md)  
   [djinn](djinn/index.md)  
   [Madness](madness/index.md)  
+  [Basic Pentesting](basic_pt/index.md)  
 
 - CVE's  
   [Sudo Security Bypass](sudo_security_bypass/index.md)  

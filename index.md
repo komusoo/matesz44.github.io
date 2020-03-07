@@ -19,6 +19,10 @@ I also use [kali](https://kali.org) for pentest and [mx](https://mxlinux.org) fo
 
 Yep I also use Windows but only for gaming.
 
+## Tools I use
+U ***MUST*** take a look at my **github repo** :D  
+[github.com/matesz44/favtools](https://github.com/matesz44/favtools)
+
 # Writeups
 ***only for ended ctf's, retired boxes, challenges***  
 ![jerrywheeze](jerrywheeze.png)

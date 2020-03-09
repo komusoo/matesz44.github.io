@@ -15,3 +15,6 @@
 
 - Reverse engineering  
   [[basics] reverse engineering](re/basic_re/index.md)
+
+- Web  
+  [epic admin pwn](web/epic_admin_pwn/index.md)

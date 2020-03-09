@@ -16,7 +16,7 @@
 Try some basic sqli!
 
 USERNAME | PASSWORD
---- | ---
+:---: | :---:
 `admin` | `'or '1' ='1`
 
 Will work!  

@@ -44,4 +44,4 @@ My paypal: [paypal.me/M4t35Z](https://www.paypal.me/M4t35Z)
 
 # Just some extra stuff ⚠️ some parts are not english ⚠️
 ### [Kresz teszt](https://matesz44.github.io/kresz/)
-### [School things](https://matesz44.github.io/school/)
+### [Notes 4 learning](https://matesz44.github.io/learn/)

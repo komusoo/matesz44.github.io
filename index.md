@@ -42,5 +42,6 @@ My paypal: [paypal.me/M4t35Z](https://www.paypal.me/M4t35Z)
 ![peepoU](peepoU.png)
 
 
-# Just some extra stuff ⚠️ not english ⚠️
+# Just some extra stuff ⚠️ some parts are not english ⚠️
 ### [Kresz teszt](https://matesz44.github.io/kresz/)
+### [School things](https://matesz44.github.io/school/)

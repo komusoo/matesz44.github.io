@@ -4,6 +4,7 @@
 
 # Jerry
 ## Details
+
 Name | Jerry
 --- | ---
 IP | 10.10.10.95

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.80 scan initiated Thu Mar 12 15:38:57 2020 as: nmap -A -T4 -p- -oA nmap/nmap_big 10.10.10.95 -->
+<nmaprun scanner="nmap" args="nmap -A -T4 -p- -oA nmap/nmap_big 10.10.10.95" start="1584023937" startstr="Thu Mar 12 15:38:57 2020" version="7.80" xmloutputversion="1.04">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="0"/>
+<debugging level="0"/>
+<taskprogress task="SYN Stealth Scan" time="1584024008" percent="41.38" remaining="100" etc="1584024107"/>
+<host starttime="1584023937" endtime="1584024059"><status state="up" reason="echo-reply" reason_ttl="127"/>
+<address addr="10.10.10.95" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="filtered" count="65534">
+<extrareasons reason="no-responses" count="65534"/>
+</extraports>
+<port protocol="tcp" portid="8080"><state state="open" reason="syn-ack" reason_ttl="127"/><service name="http" product="Apache Tomcat/Coyote JSP engine" version="1.1" method="probed" conf="10"><cpe>cpe:/a:apache:coyote_http_connector:1.1</cpe></service><script id="http-favicon" output="Apache Tomcat"/><script id="http-open-proxy" output="Proxy might be redirecting requests"/><script id="http-server-header" output="Apache-Coyote/1.1"><elem>Apache-Coyote/1.1</elem>
+</script><script id="http-title" output="Apache Tomcat/7.0.88"><elem key="title">Apache Tomcat/7.0.88</elem>
+</script></port>
+</ports>
+<os><portused state="open" proto="tcp" portid="8080"/>
+<osmatch name="Microsoft Windows Server 2012" accuracy="91" line="75072">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2012" accuracy="91"><cpe>cpe:/o:microsoft:windows_server_2012</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2012 or Windows Server 2012 R2" accuracy="91" line="75205">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2012" accuracy="91"><cpe>cpe:/o:microsoft:windows_server_2012:r2</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2012 R2" accuracy="91" line="75243">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2012" accuracy="91"><cpe>cpe:/o:microsoft:windows_server_2012:r2</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows 7 Professional" accuracy="87" line="76506">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="87"><cpe>cpe:/o:microsoft:windows_7::-:professional</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows 8.1 Update 1" accuracy="86" line="77581">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="8" accuracy="86"><cpe>cpe:/o:microsoft:windows_8</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Phone 7.5 or 8.0" accuracy="86" line="78869">
+<osclass type="phone" vendor="Microsoft" osfamily="Windows" osgen="Phone" accuracy="86"><cpe>cpe:/o:microsoft:windows</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows 7 or Windows Server 2008 R2" accuracy="85" line="73917">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="85"><cpe>cpe:/o:microsoft:windows_server_2008:r2</cpe></osclass>
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="7" accuracy="85"><cpe>cpe:/o:microsoft:windows_7</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2008 R2" accuracy="85" line="74136">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="85"><cpe>cpe:/o:microsoft:windows_server_2008:r2</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2008 R2 or Windows 8.1" accuracy="85" line="74462">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="85"><cpe>cpe:/o:microsoft:windows_server_2008:r2</cpe></osclass>
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="8.1" accuracy="85"><cpe>cpe:/o:microsoft:windows_8.1</cpe></osclass>
+</osmatch>
+<osmatch name="Microsoft Windows Server 2008 R2 SP1 or Windows 8" accuracy="85" line="74646">
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="2008" accuracy="85"><cpe>cpe:/o:microsoft:windows_server_2008:r2:sp1</cpe></osclass>
+<osclass type="general purpose" vendor="Microsoft" osfamily="Windows" osgen="8" accuracy="85"><cpe>cpe:/o:microsoft:windows_8</cpe></osclass>
+</osmatch>
+</os>
+<uptime seconds="156" lastboot="Thu Mar 12 15:38:23 2020"/>
+<distance value="2"/>
+<tcpsequence index="262" difficulty="Good luck!" values="4AF9F0E4,C10E21CF,F2A6CA15,D6310C54,2135563F,9ECFF6BA"/>
+<ipidsequence class="Incremental" values="2A4F,2A50,2A51,2A52,2A53,2A54"/>
+<tcptssequence class="100HZ" values="3B6C,3B76,3B80,3B8A,3B94,3B9E"/>
+<trace port="8080" proto="tcp">
+<hop ttl="1" ipaddr="10.10.14.1" rtt="45.94"/>
+<hop ttl="2" ipaddr="10.10.10.95" rtt="46.25"/>
+</trace>
+<times srtt="46153" rttvar="137" to="100000"/>
+</host>
+<runstats><finished time="1584024059" timestr="Thu Mar 12 15:40:59 2020" elapsed="122.07" summary="Nmap done at Thu Mar 12 15:40:59 2020; 1 IP address (1 host up) scanned in 122.07 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

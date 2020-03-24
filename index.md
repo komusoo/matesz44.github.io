@@ -31,9 +31,9 @@ U ***MUST*** take a look at my **github repos** :D
 # Writeups
 ***only for ended ctf's, retired boxes, challenges***  
 ![jerrywheeze](jerrywheeze.png)
-## [CTF's and Wargames](writeups/ctf)
-## [HackTheBox](writeups/htb)
-## [Exploit-exercises](writeups/ee)
+## [CTF's and Wargames](writeups/ctf/index.md)
+## [HackTheBox](writeups/wargames/htb/index.md)
+## [Exploit-exercises](writeups/ee/index.md)
 
 
 # 🤑 Support 🤑

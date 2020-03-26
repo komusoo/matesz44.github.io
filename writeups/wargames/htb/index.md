@@ -12,7 +12,8 @@
   [Sunday](sunday/index.md)
 
 - Medium(30)
-  - Linux
+  - Linux  
+  [Lazy](lazy/index.md)
   - Windows
 
 - Hard(40)

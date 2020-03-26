@@ -2,8 +2,7 @@
 
 ---
 
-# Lame
-## Details
+# Lame writeup by M4t35Z
 
 Name | Lame
 --- | ---

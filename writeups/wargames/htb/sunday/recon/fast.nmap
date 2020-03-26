@@ -1,0 +1,21 @@
+# Nmap 7.80 scan initiated Thu Mar 26 14:15:07 2020 as: nmap -oN recon/fast.nmap 10.10.10.76
+Nmap scan report for 10.10.10.76
+Host is up (0.040s latency).
+Not shown: 986 closed ports
+PORT      STATE    SERVICE
+79/tcp    open     finger
+111/tcp   open     rpcbind
+1036/tcp  filtered nsstp
+1076/tcp  filtered sns_credit
+1078/tcp  filtered avocent-proxy
+1971/tcp  filtered netop-school
+2393/tcp  filtered ms-olap1
+2701/tcp  filtered sms-rcinfo
+4662/tcp  filtered edonkey
+6692/tcp  filtered unknown
+9878/tcp  filtered kca-service
+16012/tcp filtered unknown
+24444/tcp filtered unknown
+50001/tcp filtered unknown
+
+# Nmap done at Thu Mar 26 14:20:39 2020 -- 1 IP address (1 host up) scanned in 332.18 seconds

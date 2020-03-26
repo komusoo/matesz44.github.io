@@ -13,8 +13,8 @@ Points | Medium(30)
 ---
 
 # Recon
-[nmap(fast)](recon/fast.nmap)  
-[nmap(big)](recon/big.nmap)  
+[nmap(fast)](recon/fast.txt)  
+[nmap(big)](recon/big.txt)  
 
 We have 2 ports open:  
 `22 - ssh` and `80 - http`

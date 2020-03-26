@@ -20,7 +20,7 @@ We have 2 ports open:
 `22 - ssh` and `80 - http`
 
 ## Web
-[ffuf_comm.txt](recon/ffuf.txt)  
+Run ffuf  
 `/classes` seems interesting! But it's nothing
 
 The page is just a login, register page

@@ -1,0 +1,9 @@
+# Nmap 7.80 scan initiated Fri Mar 27 17:31:41 2020 as: nmap -oN recon/nmap_fast.nmap 10.10.10.89
+Nmap scan report for 10.10.10.89
+Host is up (0.044s latency).
+Not shown: 998 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+1111/tcp open  lmsocialserver
+
+# Nmap done at Fri Mar 27 17:31:43 2020 -- 1 IP address (1 host up) scanned in 2.07 seconds

@@ -21,5 +21,6 @@
   - Windows
 
 - Insane(50)
-  - Linux
+  - Linux  
+  [Smasher](smasher/index.md)
   - Windows

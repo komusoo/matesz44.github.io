@@ -1,0 +1,65 @@
+# Nmap 7.80 scan initiated Fri Mar 27 17:32:14 2020 as: nmap -A -p- -T4 -oN recon/nmap_big.nmap 10.10.10.89
+Warning: 10.10.10.89 giving up on port because retransmission cap hit (6).
+Nmap scan report for 10.10.10.89
+Host is up (0.055s latency).
+Not shown: 65517 closed ports
+PORT      STATE    SERVICE         VERSION
+22/tcp    open     ssh             OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 a6:23:c5:7b:f1:1f:df:68:25:dd:3a:2b:c5:74:00:46 (RSA)
+|   256 57:81:a5:46:11:33:27:53:2b:99:29:9a:a8:f3:8e:de (ECDSA)
+|_  256 c5:23:c1:7a:96:d6:5b:c0:c4:a5:f8:37:2e:5d:ce:a0 (ED25519)
+1111/tcp  open     lmsocialserver?
+| fingerprint-strings: 
+|   FourOhFourRequest, GenericLines, SIPOptions: 
+|     HTTP/1.1 404 Not found
+|     Server: shenfeng tiny-web-server
+|     Content-length: 14
+|     File not found
+|   HTTPOptions, RTSPRequest: 
+|     HTTP/1.1 200 OK
+|     Server: shenfeng tiny-web-server
+|     Content-Type: text/html
+|     <html><head><style>body{font-family: monospace; font-size: 13px;}td {padding: 1.5px 6px;}</style></head><body><table>
+|     <tr><td><a href="index.html">index.html</a></td><td>2018-03-31 00:57</td><td>2.1K</td></tr>
+|_    </table></body></html>
+3246/tcp  filtered dvt-system
+4704/tcp  filtered assuria-ins
+9525/tcp  filtered unknown
+14835/tcp filtered unknown
+18963/tcp filtered unknown
+22135/tcp filtered unknown
+25631/tcp filtered unknown
+27343/tcp filtered unknown
+29409/tcp filtered unknown
+30266/tcp filtered unknown
+34004/tcp filtered unknown
+35748/tcp filtered unknown
+36424/tcp filtered nq-ap
+43717/tcp filtered unknown
+43750/tcp filtered unknown
+48151/tcp filtered unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port1111-TCP:V=7.80%I=7%D=3/27%Time=5E7E2DAD%P=x86_64-pc-linux-gnu%r(Ge
+SF:nericLines,5E,"HTTP/1\.1\x20404\x20Not\x20found\r\nServer:\x20shenfeng\
+SF:x20tiny-web-server\r\nContent-length:\x2014\r\n\r\nFile\x20not\x20found
+SF:")%r(HTTPOptions,136,"HTTP/1\.1\x20200\x20OK\r\nServer:\x20shenfeng\x20
+SF:tiny-web-server\r\nContent-Type:\x20text/html\r\n\r\n<html><head><style
+SF:>body{font-family:\x20monospace;\x20font-size:\x2013px;}td\x20{padding:
+SF:\x201\.5px\x206px;}</style></head><body><table>\n<tr><td><a\x20href=\"i
+SF:ndex\.html\">index\.html</a></td><td>2018-03-31\x2000:57</td><td>2\.1K<
+SF:/td></tr>\n</table></body></html>")%r(RTSPRequest,136,"HTTP/1\.1\x20200
+SF:\x20OK\r\nServer:\x20shenfeng\x20tiny-web-server\r\nContent-Type:\x20te
+SF:xt/html\r\n\r\n<html><head><style>body{font-family:\x20monospace;\x20fo
+SF:nt-size:\x2013px;}td\x20{padding:\x201\.5px\x206px;}</style></head><bod
+SF:y><table>\n<tr><td><a\x20href=\"index\.html\">index\.html</a></td><td>2
+SF:018-03-31\x2000:57</td><td>2\.1K</td></tr>\n</table></body></html>")%r(
+SF:FourOhFourRequest,5E,"HTTP/1\.1\x20404\x20Not\x20found\r\nServer:\x20sh
+SF:enfeng\x20tiny-web-server\r\nContent-length:\x2014\r\n\r\nFile\x20not\x
+SF:20found")%r(SIPOptions,5E,"HTTP/1\.1\x20404\x20Not\x20found\r\nServer:\
+SF:x20shenfeng\x20tiny-web-server\r\nContent-length:\x2014\r\n\r\nFile\x20
+SF:not\x20found");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Mar 27 17:47:07 2020 -- 1 IP address (1 host up) scanned in 893.07 seconds

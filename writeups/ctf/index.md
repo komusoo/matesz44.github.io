@@ -9,3 +9,4 @@
 [Rice Tea Cat Panda 2020](rtcp_2020/index.md)  
 [Sar CTF 2020](sarctf_2020/index.md)  
 [UTCTF 2020](utctf_2020/index.md)
+[VirSecCon 2020 CTF](virseccon_2020/index.md)
